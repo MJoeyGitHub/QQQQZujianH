@@ -1,0 +1,6 @@
+framework module Pods_JoeyQQQ_Example {
+  umbrella header "Pods-JoeyQQQ_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

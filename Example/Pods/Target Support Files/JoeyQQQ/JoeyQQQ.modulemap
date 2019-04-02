@@ -1,0 +1,6 @@
+framework module JoeyQQQ {
+  umbrella header "JoeyQQQ-umbrella.h"
+
+  export *
+  module * { export * }
+}

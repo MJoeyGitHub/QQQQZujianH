@@ -1,0 +1,22 @@
+{
+  "name": "JoeyQQQ",
+  "version": "0.1.0",
+  "summary": "A short description of JoeyQQQ.",
+  "description": "这是一个简单的项目描述",
+  "homepage": "https://github.com/MJoeyGitHub/JoeyQQQ",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MJoeyGitHub": "15810017071@163.com"
+  },
+  "source": {
+    "git": "https://github.com/MJoeyGitHub/JoeyQQQ.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JoeyQQQ/Classes/**/*"
+}
